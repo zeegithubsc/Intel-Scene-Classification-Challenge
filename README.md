@@ -21,6 +21,7 @@ There are 17034 images in train and 7301 images in test data. The categories of 
 There are three files provided to you, viz train.zip, test.csv and sample_submission.csv which have the following structure.
 
 Variable	| Definition
+|---|---|
 image_name	| Name of the image in the dataset (ID column)
 label	| Category of natural scene (target column)
 
