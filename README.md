@@ -1,4 +1,4 @@
-# Intel-Scene-Classification-Challenge
+# Intel-Scene-Classification-Challenge (Rank 25 Solution)
 
 ## Competition Link
 https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/
