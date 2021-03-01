@@ -42,7 +42,7 @@ The Evaluation metric for this competition is accuracy.
 Public leaderboard is based on randomly selected 30% of the test images, while private leaderboard will be evaluated on remaining 70% of the test images.
 
 ## Rank 25 Solution description
-Public Leader Board Score: 0.961187214611872 Private Leader Board Score: 0.948933672471141
+#### Public Leader Board Score: 0.961187214611872 Private Leader Board Score: 0.948933672471141
 
 The solution uses simple averaging of 5 convnet models. The models were trained using transfer learning and progressive image resizing with the help of FastAI DL framework. Once cycle learning and learning rate tuning was also done. Below are the models that were tuned for the problem:
 
